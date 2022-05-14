@@ -1,0 +1,11 @@
+C:\Users\victo\Documents\Visual Studio 2022\Solintra Test\bin\Debug\Solintra Test.exe.config
+C:\Users\victo\Documents\Visual Studio 2022\Solintra Test\bin\Debug\Solintra Test.exe
+C:\Users\victo\Documents\Visual Studio 2022\Solintra Test\bin\Debug\Solintra Test.pdb
+C:\Users\victo\Documents\Visual Studio 2022\Solintra Test\obj\Debug\Solintra Test.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\Visual Studio 2022\Solintra Test\obj\Debug\Solintra Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\Documents\Visual Studio 2022\Solintra Test\obj\Debug\Solintra_Test.Properties.Resources.resources
+C:\Users\victo\Documents\Visual Studio 2022\Solintra Test\obj\Debug\Solintra Test.csproj.GenerateResource.cache
+C:\Users\victo\Documents\Visual Studio 2022\Solintra Test\obj\Debug\Solintra Test.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Visual Studio 2022\Solintra Test\obj\Debug\Solintra Test.exe
+C:\Users\victo\Documents\Visual Studio 2022\Solintra Test\obj\Debug\Solintra Test.pdb
+C:\Users\victo\Documents\Visual Studio 2022\Solintra Test\obj\Debug\Solintra_Test.Test_Solintra.resources
